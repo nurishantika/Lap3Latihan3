@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConstraintLayout3</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="mahasiswa_baru_2020">Mahasiswa Baru 2020</string>
+    <string name="upn_veteran_jawa_timur">UPN VeteranJawa Timur</string>
+    <string name="program_studi_sistem_informasi">Program Studi Sistem Informasi</string>
+    <string name="fakultas_ilmu_komputer">Fakultas Ilmu Komputer</string>
+</resources>
